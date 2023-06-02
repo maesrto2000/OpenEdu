@@ -1,0 +1,16 @@
+intents:
+  - name: start
+    examples:
+
+  - name: weather
+    examples:
+      - Москва
+      - Рязань
+      - Русско-Высоцкое
+
+  - name: currency
+    examples:
+      - EUR
+      - RUB
+      - AUD
+      - Доллар 
